@@ -19,7 +19,7 @@ Prerequisites
 	•	Rust programming language installed.
 
 Clone the Repository
-git clone https://github.com/yourusername/todo-cli.git
+git clone https://github.com/pengu2004/todo-cli.git
 cd todo-cli
 Build the Application
 cargo build --release
